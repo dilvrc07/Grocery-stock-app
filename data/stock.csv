@@ -1,0 +1,51 @@
+barcode,name,category,quantity,price,expiry
+10001,Organic Whole Milk,Dairy,45,4.99,2026-05-15
+10002,Almond Milk Unsweetened,Dairy,30,5.49,2026-06-20
+10003,Farm Fresh Eggs (12pk),Dairy,60,3.99,2026-05-01
+10004,Sourdough Bread Loaf,Bakery,15,6.50,2026-04-25
+10005,Whole Wheat Bread,Bakery,20,3.49,2026-04-26
+10006,Salted Butter Roll,Dairy,40,4.75,2026-08-10
+10007,Cheddar Cheese Block,Dairy,25,7.99,2026-09-01
+10008,Greek Yogurt Plain,Dairy,50,1.25,2026-05-10
+10009,Fresh Strawberries 500g,Produce,12,5.99,2026-04-28
+10010,Organic Bananas Bunch,Produce,3,2.50,2026-04-24
+10011,Granny Smith Apples 1kg,Produce,18,4.20,2026-05-15
+10012,Navel Oranges 1kg,Produce,22,3.80,2026-05-12
+10013,Fresh Spinach Bag,Produce,15,2.99,2026-04-27
+10014,Romaine Lettuce,Produce,10,2.49,2026-04-26
+10015,Cherry Tomatoes Box,Produce,20,3.50,2026-05-02
+10016,Carrots 1kg Bag,Produce,35,1.99,2026-05-20
+10017,Brown Onions 2kg,Produce,40,3.50,2026-06-15
+10018,Garlic Bulbs 3pk,Produce,50,2.10,2026-07-01
+10019,White Potatoes 5kg,Produce,25,6.99,2026-06-30
+10020,Avocado Hass,Produce,4,1.99,2026-04-25
+10021,Boneless Chicken Breast,Meats,15,9.99,2026-04-25
+10022,Ground Beef 80/20,Meats,20,8.50,2026-04-26
+10023,Fresh Salmon Fillet,Meats,8,14.99,2026-04-23
+10024,Smoked Bacon Pack,Meats,30,6.99,2026-05-15
+10025,Pork Sausages 6pk,Meats,25,5.50,2026-05-10
+10026,Frozen Mixed Vegetables,Frozen,45,2.99,2027-01-10
+10027,Vanilla Ice Cream 1L,Frozen,20,5.99,2026-11-20
+10028,Frozen Pizza Pepperoni,Frozen,35,7.99,2026-12-05
+10029,Long Grain Rice 5kg,Pantry,50,11.50,2027-04-01
+10030,Penne Pasta 500g,Pantry,60,1.99,2027-05-15
+10031,Spaghetti 500g,Pantry,55,1.99,2027-05-15
+10032,Tomato Pasta Sauce,Pantry,40,3.25,2026-10-01
+10033,Olive Oil Extra Virgin,Pantry,25,12.99,2027-02-28
+10034,Canola Oil 2L,Pantry,30,8.50,2027-01-15
+10035,Canned Diced Tomatoes,Pantry,80,1.50,2027-06-30
+10036,Canned Black Beans,Pantry,75,1.20,2027-08-15
+10037,Peanut Butter Smooth,Pantry,45,4.50,2026-11-01
+10038,Strawberry Jam,Pantry,35,3.99,2026-12-10
+10039,Honey Pure 500g,Pantry,40,7.99,2028-01-01
+10040,Rolled Oats 1kg,Pantry,50,5.50,2026-10-20
+10041,Corn Flakes Cereal,Pantry,30,4.25,2026-09-15
+10042,Roasted Almonds 250g,Snacks,25,6.99,2026-08-01
+10043,Potato Chips Classic,Snacks,40,2.99,2026-07-15
+10044,Tortilla Chips Bag,Snacks,35,3.50,2026-07-20
+10045,Dark Chocolate Bar,Snacks,50,3.99,2026-12-01
+10046,Sparkling Water 1L,Beverages,60,1.25,2026-10-15
+10047,Orange Juice 100%,Beverages,25,4.50,2026-05-10
+10048,Apple Juice 2L,Beverages,30,3.99,2026-08-20
+10049,Ground Coffee 500g,Beverages,45,9.50,2026-11-15
+10050,English Breakfast Tea,Beverages,40,5.99,2027-02-10
